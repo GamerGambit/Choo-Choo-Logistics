@@ -1,0 +1,11 @@
+{
+    "name": "choo-choo-logistics",
+    "version": "0.1.0",
+    "title": "Choo Choo Logistics",
+    "author": "Tyler Duffus",
+    "contact": "https://github.com/GamerGambit/Choo-Choo-Logistics",
+    "homepage": "https://github.com/GamerGambit/Choo-Choo-Logistics",
+    "factorio_version": "2.0",
+    "description": "Train logistics management for Factorio 2.0 Space Age",
+    "dependencies": ["base >= 2.0", "flib >= 0.15.0"]
+  }
